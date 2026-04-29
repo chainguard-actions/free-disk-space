@@ -1,6 +1,12 @@
 # jlumbroso/free-disk-space
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v1.3.1 | [`v1.3.1`](https://github.com/chainguard-actions/free-disk-space/tree/v1.3.1) | — |
 
 ## Privacy
 
