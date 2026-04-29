@@ -1,5 +1,7 @@
 # jlumbroso/free-disk-space
 
+:octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space).
 
 ## Versions

@@ -1,5 +1,6 @@
 {
   "owner": "jlumbroso",
   "name": "free-disk-space",
-  "visibility": ""
+  "visibility": "public",
+  "description": ":octocat:⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner."
 }
